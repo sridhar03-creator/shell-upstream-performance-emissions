@@ -1,0 +1,6 @@
+scenario_id,scenario,oil_price_usd_bbl,production_growth_pct,renewable_share_pct,emission_factor_change_pct,maintenance_efficiency_change_pct,scenario_description
+SCN001,Base,75,3,10,0,0,Balanced operating outlook
+SCN002,High Oil Price,95,5,12,-3,3,Strong commodity-price environment
+SCN003,Low Oil Price,55,-2,15,2,-5,Weak commodity-price environment
+SCN004,Accelerated Transition,70,1,30,-20,10,Faster transition with aggressive emissions reduction
+SCN005,Growth Scenario,90,8,15,-5,2,High production growth with moderate efficiency gains

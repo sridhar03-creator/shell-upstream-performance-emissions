@@ -1,0 +1,31 @@
+asset_id,asset_name,region,segment,asset_type,baseline_production_boe_d,operational_efficiency,asset_risk
+AST001,Upstream Asset 01,Americas,Upstream Oil,Offshore Platform,44257,0.882,High
+AST002,Upstream Asset 02,Europe,Integrated Gas,Gas Field,35778,0.892,High
+AST003,Upstream Asset 03,Asia Pacific,Upstream Gas,Onshore Field,42879,0.957,Medium
+AST004,Upstream Asset 04,Middle East,Upstream Oil,Oil Field,80909,0.865,Low
+AST005,Upstream Asset 05,Africa,Integrated Gas,FPSO,49237,0.954,Low
+AST006,Upstream Asset 06,Americas,Upstream Gas,Offshore Platform,58929,0.904,Low
+AST007,Upstream Asset 07,Europe,Upstream Oil,Gas Field,75142,0.959,Low
+AST008,Upstream Asset 08,Asia Pacific,Integrated Gas,Onshore Field,37891,0.855,Medium
+AST009,Upstream Asset 09,Middle East,Upstream Gas,Oil Field,45335,0.965,Low
+AST010,Upstream Asset 10,Africa,Upstream Oil,FPSO,33048,0.891,Medium
+AST011,Upstream Asset 11,Americas,Integrated Gas,Offshore Platform,87159,0.922,Medium
+AST012,Upstream Asset 12,Europe,Upstream Gas,Gas Field,60355,0.859,Medium
+AST013,Upstream Asset 13,Asia Pacific,Upstream Oil,Onshore Field,67340,0.894,Low
+AST014,Upstream Asset 14,Middle East,Integrated Gas,Oil Field,59307,0.961,Low
+AST015,Upstream Asset 15,Africa,Upstream Gas,FPSO,31495,0.857,Low
+AST016,Upstream Asset 16,Americas,Upstream Oil,Offshore Platform,43170,0.921,Medium
+AST017,Upstream Asset 17,Europe,Integrated Gas,Gas Field,85545,0.833,Low
+AST018,Upstream Asset 18,Asia Pacific,Upstream Gas,Onshore Field,93434,0.82,Medium
+AST019,Upstream Asset 19,Middle East,Upstream Oil,Oil Field,33277,0.918,High
+AST020,Upstream Asset 20,Africa,Integrated Gas,FPSO,60106,0.876,Medium
+AST021,Upstream Asset 21,Americas,Upstream Gas,Offshore Platform,73785,0.91,Medium
+AST022,Upstream Asset 22,Europe,Upstream Oil,Gas Field,36293,0.97,Medium
+AST023,Upstream Asset 23,Asia Pacific,Integrated Gas,Onshore Field,45290,0.957,Low
+AST024,Upstream Asset 24,Middle East,Upstream Gas,Oil Field,52182,0.9,Low
+AST025,Upstream Asset 25,Africa,Upstream Oil,FPSO,62822,0.89,Low
+AST026,Upstream Asset 26,Americas,Integrated Gas,Offshore Platform,75887,0.836,Low
+AST027,Upstream Asset 27,Europe,Upstream Gas,Gas Field,83262,0.933,Low
+AST028,Upstream Asset 28,Asia Pacific,Upstream Oil,Onshore Field,85619,0.931,High
+AST029,Upstream Asset 29,Middle East,Integrated Gas,Oil Field,48429,0.845,Low
+AST030,Upstream Asset 30,Africa,Upstream Gas,FPSO,83402,0.948,Low
