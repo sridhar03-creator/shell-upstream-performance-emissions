@@ -396,29 +396,30 @@ Screenshots/
 └── scenario-analysis.png
 ```
 
-This README uses **relative GitHub repository paths**. You do not need `github.com/user-attachments/assets/...` links.
-
 ### Executive Overview
 
-![Executive Overview](Screenshots/executive-overview.png)
+<img width="874" height="490" alt="Executive Overview" src="https://github.com/user-attachments/assets/410ef4a2-9763-4193-a56d-48df80ab2999" />
+
 
 ### Production & Operations
 
-![Production & Operations](Screenshots/production-operations.png)
+<img width="872" height="486" alt="Production   Operations" src="https://github.com/user-attachments/assets/75e54e83-81d7-4375-a87d-f0cd0fcdf667" />
+
 
 ### Financial Performance
 
-![Financial Performance](Screenshots/financial-performance.png)
+<img width="875" height="486" alt="Financial performance" src="https://github.com/user-attachments/assets/d5cc16b5-e510-40d2-94bf-0b31905b1056" />
+
 
 ### Emissions & Decarbonization
 
-![Emissions & Decarbonization](Screenshots/emissions-decarbonization.png)
+<img width="872" height="493" alt="Emission   Decarbonization" src="https://github.com/user-attachments/assets/a20e99f4-3d58-461b-b4d1-c090fc7f2cea" />
+
 
 ### Scenario Analysis
 
-![Scenario Analysis](Screenshots/scenario-analysis.png)
+<img width="875" height="491" alt="scenario_analysis" src="https://github.com/user-attachments/assets/f97e6da0-5745-49d6-ae20-464a71435106" />
 
-> After uploading the five PNG files to the `Screenshots/` folder, GitHub will automatically display them here.
 
 ---
 
