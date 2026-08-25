@@ -390,7 +390,7 @@ Add the five exported dashboard screenshots to the `Screenshots/` folder and use
 ### Executive Overview
 
 ```markdown
-"C:\Users\acer\Downloads\shell project\SCREENSHOTS\Executive Overview.png"
+![Uploading Executive Overview.png…]()
 ```
 
 ### Production & Operations
