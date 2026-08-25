@@ -390,7 +390,8 @@ Add the five exported dashboard screenshots to the `Screenshots/` folder and use
 ### Executive Overview
 
 ```markdown
-![Uploading Executive Overview.png…]()
+<img width="874" height="490" alt="Executive Overview" src="https://github.com/user-attachments/assets/c7b7f3ca-f1e5-4ddb-bd34-86a36f8123ff" />
+
 ```
 
 ### Production & Operations
