@@ -390,31 +390,36 @@ Add the five exported dashboard screenshots to the `Screenshots/` folder and use
 ### Executive Overview
 
 ```markdown
-![Executive Overview](Screenshots/executive-overview.png)
+<img width="874" height="490" alt="Executive Overview" src="https://github.com/user-attachments/assets/48733cb6-80d4-4ae2-b65b-1342d55cb250" />
+
 ```
 
 ### Production & Operations
 
 ```markdown
-![Production & Operations](Screenshots/production-operations.png)
+<img width="872" height="486" alt="Production   Operations" src="https://github.com/user-attachments/assets/cccbc8c6-11db-4018-bc75-e9f842b4bfe2" />
+
 ```
 
 ### Financial Performance
 
 ```markdown
-![Financial Performance](Screenshots/financial-performance.png)
+<img width="875" height="486" alt="Financial performance" src="https://github.com/user-attachments/assets/cdc6cdb4-cd5e-4276-965b-b93f88b46f72" />
+
 ```
 
 ### Emissions & Decarbonization
 
 ```markdown
-![Emissions & Decarbonization](Screenshots/emissions-decarbonization.png)
+<img width="872" height="493" alt="Emission   Decarbonization" src="https://github.com/user-attachments/assets/9a508ff3-e30e-4348-b69b-c94c56e90bd9" />
+
 ```
 
 ### Scenario Analysis
 
 ```markdown
-![Scenario Analysis](Screenshots/scenario-analysis.png)
+<img width="875" height="491" alt="scenario_analysis" src="https://github.com/user-attachments/assets/1a854ef2-597c-4f18-aa27-5814af50fd3a" />
+
 ```
 
 **Note:** The supplied documentation describes the five dashboard pages but does not contain separate screenshot image files. Therefore, the README provides ready-to-use screenshot paths rather than inventing image files.
