@@ -390,7 +390,7 @@ Add the five exported dashboard screenshots to the `Screenshots/` folder and use
 ### Executive Overview
 
 ```markdown
-<img width="874" height="490" alt="Executive Overview" src="https://github.com/user-attachments/assets/48733cb6-80d4-4ae2-b65b-1342d55cb250" />
+<img width="1317" height="745" alt="Executive Fraud Overview" src="https://github.com/user-attachments/assets/d900758a-1078-447c-b2ca-45ebf704f416" />
 
 ```
 
