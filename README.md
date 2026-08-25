@@ -390,8 +390,7 @@ Add the five exported dashboard screenshots to the `Screenshots/` folder and use
 ### Executive Overview
 
 ```markdown
-<img width="1317" height="745" alt="Executive Fraud Overview" src="https://github.com/user-attachments/assets/d900758a-1078-447c-b2ca-45ebf704f416" />
-
+"C:\Users\acer\Downloads\shell project\SCREENSHOTS\Executive Overview.png"
 ```
 
 ### Production & Operations
